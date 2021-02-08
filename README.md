@@ -1,1 +1,5 @@
-# Linear Algebra and applications 2020
+# Линеарна алгебра и примени 2020 - проект
+
+Во овој репозиториум се наоѓаат практичните примери од проектот за намалување на димензионланоста со помош на Principle Component Analysis (PCA).
+
+Проектот прикачен на overleaf е достапен на следниот [линк](https://www.overleaf.com/read/mjyjgqjrvrbp).
